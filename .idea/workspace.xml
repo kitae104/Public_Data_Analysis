@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4abb82f7-9515-486a-8529-e85de8ac94d1" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Public_Data_Analysis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/06_데이터_다루기.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/07_인구통계정보_분석.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/datas/midwest.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/datas/mpg.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/datas/mpg_copy.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/ifwhilefor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/05_데이터_파악하기.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/05_데이터_파악하기.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day5/우리동네인구구조.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day5/우리동네인구구조.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +38,7 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Python/311/python.exe&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Github/Flask_WS/Flask_Basic&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -69,8 +51,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
-        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
       </set>
     </attachedChunks>
   </component>
@@ -88,6 +70,11 @@
       <workItem from="1720016239860" duration="138000" />
       <workItem from="1720016388188" duration="47000" />
       <workItem from="1720106388774" duration="4000" />
+      <workItem from="1723912945605" duration="3064000" />
+      <workItem from="1723989160378" duration="5776000" />
+      <workItem from="1724599920098" duration="40000" />
+      <workItem from="1729914814788" duration="18000" />
+      <workItem from="1729938635664" duration="33000" />
     </task>
     <servers />
   </component>
